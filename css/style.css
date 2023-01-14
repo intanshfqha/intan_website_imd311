@@ -1,0 +1,52 @@
+body
+{
+    background-color: linen;
+}
+
+a:link
+{
+    color:burlywood;
+    background-color:cornsilk;
+    text-decoration: wavy;
+    padding: 8px;
+    display:inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:visited
+{
+    color:antiquewhite;
+    background-color: darkolivegreen;
+    text-decoration: none;
+    padding: 8px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover
+{
+    color:cadetblue;
+    background-color:burlywood;
+    text-decoration: none;
+    padding: 8px;
+    display: inline-flexbox;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:active
+{
+    color:ghostwhite;
+    background-color:burlywood;
+    text-decoration: none;
+    padding: 8px;
+    display: inline-flexbox;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+h1
+{
+    color:black;
+    font-family:serif;
+
+}
+
